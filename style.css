@@ -60,6 +60,8 @@ form [type='text']{
 }
 
 form [type='date'], [type='time']{
+    color: #000;
+    background-color: #fff;
     width: 150px;
     border: 0;
     border-radius: 15px;
@@ -109,3 +111,4 @@ form [type='submit']{
     text-decoration: none;
     
 }
+
