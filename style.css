@@ -107,8 +107,13 @@ form [type='submit']{
 }
 
 #backgrond ul li a{
-    font-size: 8px;
+    font-size: 6px;
     text-decoration: none;
-    
+    background-color: #000;
+    color: white;
+    padding: 1px;
+    border-radius: 5px;
+    font-weight: bold;
 }
+
 
